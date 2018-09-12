@@ -1,3 +1,3 @@
 # NatoursSite
 
--To run, simply clone repo and open index.html
+-To run, simply clone repo and open starter/index.html
